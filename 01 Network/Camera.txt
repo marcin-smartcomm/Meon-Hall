@@ -1,0 +1,15 @@
+Camera:
+Username:admin
+Password:Sc@4719124719
+
+Camera:
+Username:crestron
+Password:Sc$4719124719
+
+
+rtsp://admin:Sc@4719124719@192.168.1.227:554/1/
+
+rtsp://admin:Sc@4719124719@192.168.1.227:554/2/
+
+
+rtsp://crestron:Sc$4719124719@192.168.1.227:554/2/

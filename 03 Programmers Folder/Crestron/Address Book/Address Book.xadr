@@ -1,0 +1,41 @@
+[Crestron_Toolbox_Address_Book]
+
+[AddressBookInfo]
+Schema=3.0
+Version=1.0
+DefaultEntry=
+
+[ComSpecs]
+_USB=usb
+AV3=auto 192.168.1.200
+New Entry 2=auto 192.168.5.127
+Test Bay=auto 192.168.0.21
+New Entry 6=auto 192.168.0.20
+New Entry 1=auto 192.168.0.21
+New Entry 5=auto 10.1.5.21
+New Entry 4=auto 192.168.0.163
+New Entry 3=auto 192.168.0.163
+DM=auto 192.168.1.202
+TSW Snug=auto 192.168.1.210
+TSW Kitchen=auto 192.168.1.211
+TSR-Kitchen=auto 192.168.1.136;username crestron;password 4719124719
+TSW Hall=auto 192.168.1.212
+TSW MBed=auto 192.168.1.213
+
+[Notes]
+_USB=
+AV3=
+New Entry 2=
+Test Bay=
+New Entry 6=
+New Entry 1=
+New Entry 5=
+New Entry 4=
+New Entry 3=
+DM=
+TSW Snug=
+TSW Kitchen=
+TSR-Kitchen=
+TSW Hall=
+TSW MBed=
+

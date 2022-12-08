@@ -1,0 +1,756 @@
+Summary for Meon Hall Lutron - 27.10.22 v2 PE v1.65 Current EOD upgrade tester converted on 10/27/2022 10:41:26 AM
+Location: United Kingdom, England, Birmingham
+Voltage: 230
+A total of 57 items were dropped
+	Main Level > Sitting room > Sitting rm A20 - 26
+	Main Level > Sitting room > Sitting rm A20 - 26 > Keypad 50 (Phantom)
+	Main Level > Sitting room > Sitting rm A19 - 7
+	Main Level > Sitting room > Sitting rm A19 - 7 > Keypad 51 (Phantom)
+	Main Level > Dining room > Dining rm 6
+	Main Level > Dining room > Dining rm 6 > Keypad 49 (Phantom)
+	Main Level > Snug > Snug 2
+	Main Level > Snug > Snug 2 > Keypad 45 (Phantom)
+	Main Level > Garden > Garden 31
+	Main Level > Garden > Garden 31 > Keypad 68 (Phantom)
+	Main Level > Garden > Garden 1 by 1 32
+	Main Level > Garden > Garden 1 by 1 32 > Keypad 70 (Phantom)
+	Main Level > Equipment Room > Layout lights 1
+	Main Level > Equipment Room > Layout lights 1 > Keypad 44 (Phantom)
+	Main Level > Equipment Room > Layout Lights 2
+	Main Level > Equipment Room > Layout Lights 2 > Keypad 47 (Phantom)
+	Main Level > Equipment Room > Layout Lights 3
+	Main Level > Equipment Room > Layout Lights 3 > Keypad 48 (Phantom)
+	Main Level > Equipment Room > Power Supply 1 (HWI-PS-230)
+	1st Floor > Bed 4 > Entrance 5- 26
+	1st Floor > Bed 4 > Entrance 5- 26 > Keypad 63 (Phantom)
+	1st Floor > Master bath > Entrance 5- 25
+	1st Floor > Master bath > Entrance 5- 25 > Keypad 62 (Phantom)
+	1st Floor > Bed 5 > Entrance 5- 28
+	1st Floor > Bed 5 > Entrance 5- 28 > Keypad 65 (Phantom)
+	1st Floor > Bed 6 > Entrance 5- 30
+	1st Floor > Bed 6 > Entrance 5- 30 > Keypad 67 (Phantom)
+	1st Floor > Bed 3/Gym > Entrance ensuit 28
+	1st Floor > Bed 3/Gym > Entrance ensuit 28 > Keypad 53 (Phantom)
+	1st Floor > Bed 3/Gym > Entrance 29
+	1st Floor > Bed 3/Gym > Entrance 29 > Keypad 54 (Phantom)
+	1st Floor > Study > Phantom study
+	1st Floor > Study > Phantom study > Keypad 71 (Phantom)
+	1st Floor > Back corridor > Snug entrance 3
+	1st Floor > Back corridor > Snug entrance 3 > Keypad 46 (Phantom)
+	1st Floor > Bed 2 > bedside L 30
+	1st Floor > Bed 2 > bedside L 30 > Keypad 55 (Phantom)
+	1st Floor > Bed 2 > Bedside R 31
+	1st Floor > Bed 2 > Bedside R 31 > Keypad 56 (Phantom)
+	1st Floor > Bed 2 > Entrance 32
+	1st Floor > Bed 2 > Entrance 32 > Keypad 57 (Phantom)
+	1st Floor > Bed 2 > Dressing rm 5-21
+	1st Floor > Bed 2 > Dressing rm 5-21 > Keypad 58 (Phantom)
+	1st Floor > Master bed > bedside L 22
+	1st Floor > Master bed > bedside L 22 > Keypad 59 (Phantom)
+	1st Floor > Master bed > Bedside R 23
+	1st Floor > Master bed > Bedside R 23 > Keypad 60 (Phantom)
+	1st Floor > Master bed > dressing rm 24
+	1st Floor > Master bed > dressing rm 24 > Keypad 61 (Phantom)
+	1st Floor > Ensuit 4 > Entrance 5- 27
+	1st Floor > Ensuit 4 > Entrance 5- 27 > Keypad 64 (Phantom)
+	1st Floor > Ensuit bed 5 > Entrance 5- 29
+	1st Floor > Ensuit bed 5 > Entrance 5- 29 > Keypad 66 (Phantom)
+
+Project: Meon Hall Lutron - 27.10.22 v2 PE v1.65 Current EOD upgrade tester - Success
+	Area: Main Level - Success
+		Room: Sitting room - Success
+			ControlStation: L5-A19 Entrance - Success
+				CSDevice: Keypad 19 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L5-A20 Entrance - Success
+				CSDevice: Keypad 20 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Sitting rm A20 - 26 - Dropped
+				CSDevice: Keypad 50 (Phantom) - Dropped
+			ControlStation: Sitting rm A19 - 7 - Dropped
+				CSDevice: Keypad 51 (Phantom) - Dropped
+			Zone: P1 C1 Spots above sliding doors - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C2 Fireplace - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C3 Wall wash - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C4 Centre single spot - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C13 5Amp Floor box - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C14 End wall washers - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C15 Centre quad spots - Success
+				Modified - Zone is using undefined fixture
+		Room: Library - Success
+			ControlStation: L5-A15 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 16 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			Zone: P1 C25 Library - Success
+				Modified - Zone is using undefined fixture
+		Room: Dining room - Success
+			ControlStation: L5-A17 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 18 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Dining rm 6 - Dropped
+				CSDevice: Keypad 49 (Phantom) - Dropped
+			Zone: P1 C9 wall wash - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C10 Centre spots - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C11 Centre pendant - Success
+				Modified - Zone is using undefined fixture
+		Room: Cloak room - Success
+			ControlStation: L5-A14 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 17 (ST-3BRL-NI) - Success
+					Button: 1 - Success
+					Button: 3 - Success
+					Button: 5 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			Zone: P1 C12 Spots - Success
+				Modified - Zone is using undefined fixture
+		Room: Hall - Success
+			ControlStation: L5-A18 Bottom stairs - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 14 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L5-A16 Outside library - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 15 (ST-3BRL-NI) - Success
+					Button: 1 - Success
+					Button: 3 - Success
+					Button: 5 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			Zone: P1 C16 Wall washers - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C17 Corridor at rear - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C18 main foye - Success
+				Modified - Zone is using undefined fixture
+		Room: Snug - Success
+			ControlStation: L5-A8 Back door - Success
+				Modified - Color of Control Station: has been changed from Black Anodized Aluminum to White 
+				CSDevice: Keypad 73 (ST-5BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Snug 2 - Dropped
+				CSDevice: Keypad 45 (Phantom) - Dropped
+			Zone: P1 C22 Wall spots rear - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C23 Wall wash rear - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C24 Spot above book - Success
+				Modified - Zone is using undefined fixture
+		Room: Breakfast room - Success
+			ControlStation: L5-A7 Main Entrance - Success
+				Modified - Color of Control Station: has been changed from Black Anodized Aluminum to White 
+				CSDevice: Keypad 3 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L5-A3 Stairs - Success
+				Modified - Color of Control Station: has been changed from Black Anodized Aluminum to White 
+				CSDevice: Keypad 4 (ST-2B-NI) - Success
+					Button: 3 - Success
+					Button: 5 - Success
+			Zone: P2 C9 Downlights - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C10 Joinery - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C11 DLs Outer - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C12 stair case & landing - Success
+				Modified - Zone is using undefined fixture
+		Room: Garden - Success
+			ControlStation: Garden 31 - Dropped
+				CSDevice: Keypad 68 (Phantom) - Dropped
+			ControlStation: Garden 1 by 1 32 - Dropped
+				CSDevice: Keypad 70 (Phantom) - Dropped
+			Zone: P2 C17 Gate piller lights - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C18 Garden - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C19 Garden - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C20 Front door uplights - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C29 Top Fountain pump - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C30 Field wall uplights - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C31 Front courtyard - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C32 back garden path - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C5 bottom pond tree light - Success
+				Modified - Zone is using undefined fixture
+			Zone: WPM2-1 Coach house up light - Success
+				Modified - Zone is using undefined fixture
+			Zone: WPM2-2 Rear Drive - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C11  Top Fountain lights - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C10 test - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C12 test2 - Success
+				Modified - Zone is using undefined fixture
+		Room: Kitchen - Success
+			ControlStation: L5-A2 To Breakfast room - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 43 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			Zone: P4 C13 Pendants - Success
+				Modified - Zone is using undefined fixture
+			Zone: P4 C14 Downlights Lower - Success
+				Modified - Zone is using undefined fixture
+			Zone: P4 C15 Downlights Upper - Success
+				Modified - Zone is using undefined fixture
+		Room: Utility - Success
+			Zone: P2 C24 Utility & Boot Room - Success
+				Modified - Zone is using undefined fixture
+		Room: Drive - Success
+			Zone: P3 C6 Main Drive - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C7 Drive - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C8 Back pond trees - Success
+				Modified - Zone is using undefined fixture
+		Room: Patio - Success
+			Zone: P3 C9 Patio Wall - Success
+				Modified - Zone is using undefined fixture
+		Room: Boot room - Success
+			ControlStation: L5-A1 Back entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 2 (ST-3BRL-NI) - Success
+					Button: 1 - Success
+					Button: 3 - Success
+					Button: 5 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+		Room: Equipment Room - Success
+			ControlStation: Layout lights 1 - Dropped
+				CSDevice: Keypad 44 (Phantom) - Dropped
+			ControlStation: Layout Lights 2 - Dropped
+				CSDevice: Keypad 47 (Phantom) - Dropped
+			ControlStation: Layout Lights 3 - Dropped
+				CSDevice: Keypad 48 (Phantom) - Dropped
+			Enclosure: Panel 1 (HWI-PNL-8-CE) - Success
+			Enclosure: Panel 2 (HWI-PNL-8-CE) - Success
+			Enclosure: Panel 3 (HWI-PNL-8-CE) - Success
+			Enclosure: Power Supply 1 (HWI-PS-230) - Dropped
+		Room: Garden Room - Success
+			Zone: P2 C21 Chandelier - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C22 Downlights - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C23 End DLs - Success
+				Modified - Zone is using undefined fixture
+		Room: Pit - Success
+			Zone: P4 C16 Sofa DLs - Success
+				Modified - Zone is using undefined fixture
+			Zone: P5 C17 Downlights - Success
+				Modified - Zone is using undefined fixture
+	Area: 1st Floor - Success
+		Room: Back Landing - Success
+			ControlStation: L4-A13 Back landing - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 22 (ST-5BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			Zone: P1 C5 Back landing - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C6 Alcove and wall wash - Success
+				Modified - Zone is using undefined fixture
+		Room: Front landing - Success
+			Zone: P1 C7 Front landing - Success
+				Modified - Zone is using undefined fixture
+		Room: Bed 4 - Success
+			ControlStation: L4-A16 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 33 (ST-4S-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Entrance 5- 26 - Dropped
+				CSDevice: Keypad 63 (Phantom) - Dropped
+			Zone: P1 C20 Bed 4 - Success
+				Modified - Zone is using undefined fixture
+		Room: Master bath - Success
+			ControlStation: L4-A10 Entrance - Success
+				CSDevice: Keypad 30 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Entrance 5- 25 - Dropped
+				CSDevice: Keypad 62 (Phantom) - Dropped
+			Zone: P1 C26 Master Bath - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C27 Centre line spots wc - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C28 above sink & Bath - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C4 Master bath - Success
+				Modified - Zone is using undefined fixture
+		Room: Bed 5 - Success
+			ControlStation: L4-A18 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 35 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Entrance 5- 28 - Dropped
+				CSDevice: Keypad 65 (Phantom) - Dropped
+			Zone: P1 C8 Beam lights - Success
+				Modified - Zone is using undefined fixture
+			Zone: P1 C29 Beam lights - Success
+				Modified - Zone is using undefined fixture
+		Room: Bed 6 - Success
+			ControlStation: L4-A21 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 37 (ST-4S-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Entrance 5- 30 - Dropped
+				CSDevice: Keypad 67 (Phantom) - Dropped
+			Zone: P1 C32 Bed 6 - Success
+				Modified - Zone is using undefined fixture
+		Room: Bed 3/Gym - Success
+			ControlStation: L5-A4 Entrance Ensuit - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 6 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+					Button: 5 - Success
+			ControlStation: L5-A5 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 7 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+						Dropped - Preset Assignment for Keypad is dropped
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+			ControlStation: Entrance ensuit 28 - Dropped
+				CSDevice: Keypad 53 (Phantom) - Dropped
+			ControlStation: Entrance 29 - Dropped
+				CSDevice: Keypad 54 (Phantom) - Dropped
+			Zone: P2 C7 Celing spots - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C8 Ensuit bed 3 - Success
+				Modified - Zone is using undefined fixture
+		Room: Bed 1 - Success
+			Zone: P2 C1 5Amp Bed lef - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C2 5Amp Bed lef - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C3 5Amp Bed right - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C4 5Amp Bed right - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C5 Dressing room spots - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C6 Dressing room wall wash - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C14 Spots - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C13 Wall lights - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C3 5Amp by TV - Success
+				Modified - Zone is using undefined fixture
+		Room: Stairs above b'room - Success
+			ControlStation: L5-A6 Top of stair - Success
+				Modified - Color of Control Station: has been changed from Black Anodized Aluminum to White 
+				CSDevice: Keypad 5 (ST-3BRL-NI) - Success
+					Button: 1 - Success
+					Button: 3 - Success
+					Button: 5 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+		Room: Study - Success
+			ControlStation: L5-A9 Study - Success
+				Modified - Color of Control Station: has been changed from Black Anodized Aluminum to White 
+				CSDevice: Keypad 9 (ST-4S-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Phantom study - Dropped
+				CSDevice: Keypad 71 (Phantom) - Dropped
+			Zone: P1 C21 Study - Success
+				Modified - Zone is using undefined fixture
+		Room: Back corridor - Success
+			ControlStation: L4-A9 Snug Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 12 (ST-4S-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L4-A8 Hall entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 13 (ST-4S-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Snug entrance 3 - Dropped
+				CSDevice: Keypad 46 (Phantom) - Dropped
+		Room: Hall upstairs - Success
+			ControlStation: L4-A19 Top of stairs - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 21 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+		Room: Bed 2 - Success
+			ControlStation: L4-A24 Bedside left - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 23 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L4-A25 Bedside right - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 24 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L4-A20 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 25 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L4-A22 Dressing room 2 - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 26 (ST-5BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: bedside L 30 - Dropped
+				CSDevice: Keypad 55 (Phantom) - Dropped
+			ControlStation: Bedside R 31 - Dropped
+				CSDevice: Keypad 56 (Phantom) - Dropped
+			ControlStation: Entrance 32 - Dropped
+				CSDevice: Keypad 57 (Phantom) - Dropped
+			ControlStation: Dressing rm 5-21 - Dropped
+				CSDevice: Keypad 58 (Phantom) - Dropped
+			Zone: P2 C15 Dressing end wall - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C16 dressing centre spots - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C25 Ensuit spots - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C26 Ensuit over taps & wc - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C27 5Amp right - Success
+				Modified - Zone is using undefined fixture
+			Zone: P2 C28 5Amp left - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C1 Wall & corner spots - Success
+				Modified - Zone is using undefined fixture
+			Zone: P3 C2 Centre spots - Success
+				Modified - Zone is using undefined fixture
+		Room: Bathroom - Success
+			ControlStation: L4-A23 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 27 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+		Room: Master bed - Success
+			ControlStation: L4-A11 Bedside left - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 28 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L4-A12 Bedside right - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 29 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: L5-A10 Dessing room - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 31 (ST-6BRL-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 5 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: bedside L 22 - Dropped
+				CSDevice: Keypad 59 (Phantom) - Dropped
+			ControlStation: Bedside R 23 - Dropped
+				CSDevice: Keypad 60 (Phantom) - Dropped
+			ControlStation: dressing rm 24 - Dropped
+				CSDevice: Keypad 61 (Phantom) - Dropped
+		Room: Ensuit 4 - Success
+			ControlStation: L4-A14 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 34 (ST-4S-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Entrance 5- 27 - Dropped
+				CSDevice: Keypad 64 (Phantom) - Dropped
+			Zone: P1 C19 Ensuit bed 4 - Success
+				Modified - Zone is using undefined fixture
+		Room: Ensuit bed 5 - Success
+			ControlStation: L4-A17 Entrance - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 36 (ST-4S-NI) - Success
+					Button: 1 - Success
+					Button: 2 - Success
+					Button: 3 - Success
+					Button: 4 - Success
+					Button: 6 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			ControlStation: Entrance 5- 29 - Dropped
+				CSDevice: Keypad 66 (Phantom) - Dropped
+			Zone: P1 C30 Ensuit bed 5 - Success
+				Modified - Zone is using undefined fixture
+	Area: 2nd Floor - Success
+		Room: Landing 2nd floor - Success
+			ControlStation: L4-A15 Top of stairs - Success
+				Modified - Color of Control Station: has been changed from Clear Anodized Aluminum to White 
+				CSDevice: Keypad 32 (ST-3BRL-NI) - Success
+					Button: 1 - Success
+					Button: 3 - Success
+					Button: 5 - Success
+					Button: 23 - Success
+					Button: 24 - Success
+			Zone: P1 C31 Landing & wall lights - Success
+				Modified - Zone is using undefined fixture
+	Area: Cellar - Success
+		Room: Top of stairs - Success
+			ControlStation: L5-A11 Top of stairs - Success
+				Modified - Color of Control Station: has been changed from Satin Nickel to White 
+				CSDevice: Keypad 40 (HWI-4SE-M) - Success
+			Zone: WPM Z6 Stairs / hall - Success
+				Modified - Zone is using undefined fixture
+			Zone: WPM Z3 Wall lights - Success
+				Modified - Zone is using undefined fixture
+		Room: Gun room - Success
+			ControlStation: l5-A12 Gun room - Success
+				Modified - Color of Control Station: has been changed from Satin Nickel to White 
+				CSDevice: Keypad 38 (HWI-4SE-M) - Success
+			Zone: WPM Z4 Gun room - Success
+				Modified - Zone is using undefined fixture
+			Zone: WPM Z5 Gun room - Success
+				Modified - Zone is using undefined fixture
+		Room: Tasting room - Success
+			ControlStation: L5-A13 Tasting room - Success
+				Modified - Color of Control Station: has been changed from Satin Nickel to White 
+				CSDevice: Keypad 39 (HWI-4SE-M) - Success
+			Zone: WPM Z2 Tasting room - Success
+				Modified - Zone is using undefined fixture
+			Zone: WPM Z1 Floor lights - Success
+				Modified - Zone is using undefined fixture
+	Fixture: INC Dimmed - Success
+	Fixture: INC Non Dimmed - Success
+	Fixture: MLV Dimmed - Success
+	Fixture: MLV Non Dimmed - Success
+	Fixture: ELV Dimmed - Success
+	Fixture: ELV Non Dimmed - Success
+	Fixture: NCC Dimmed - Success
+	Fixture: NCC Non Dimmed - Success
+	Fixture: Non Dim - Success
+	Fixture: FL Non Dim - Success
+	Fixture: FL Hi Lume - Success
+	Fixture: FL TuWire - Success
+	Fixture: FL 0-10V - Success
+	Fixture: FL DSI - Success
+	Fixture: FL DALI - Success
+	Fixture: FL PWM - Success
+	Fixture: MTR - 3 Wire - Success
+	Fixture: Ceiling Fan - Success
+	Fixture: Relay - Success
+	Fixture: CCO Pulse - Success
+	Fixture: CCO Maintained - Success
+	Fixture: Auto Detect Dimmed - Success
+		Modified - Name has been changed to Auto Detect Dim
+	Fixture: High Voltage LED Dimmed - Success
+		Modified - Name has been changed to HiVolt LED Dim
+	Fixture: High Voltage LED Non Dimmed - Success
+		Modified - Name has been changed to HiVolt LED ND
+	Fixture: Exhaust Fan - Success
+	Fixture: LED 0-10V - Success
+	Fixture: ELV LED Non Dimmed - Success
+		Modified - Name has been changed to ELV LED Non Dim
+	Fixture: Halogen Dimmed - Success
+	Fixture: Halogen Non Dimmed - Success
+		Modified - Name has been changed to Halogen Non Dim
+	Fixture: DMX Channel - Generic - Success
+		Modified - Name has been changed to DMX - Generic
+	Fixture: DMX Channel - Dimmer - Success
+		Modified - Name has been changed to DMX - Dimmer
+	Fixture: DMX Channel - Colors - Success
+		Modified - Name has been changed to DMX - Colors
+	Fixture: DMX Channel - Red - Success
+		Modified - Name has been changed to DMX - Red
+	Fixture: DMX Channel - Green - Success
+		Modified - Name has been changed to DMX - Green
+	Fixture: DMX Channel - Blue - Success
+		Modified - Name has been changed to DMX - Blue
+	Fixture: DMX Channel - Gobo - Success
+		Modified - Name has been changed to DMX - Gobo
+	Fixture: DMX Channel - Pan - Success
+		Modified - Name has been changed to DMX - Pan
+	Fixture: DMX Channel - Tilt - Success
+		Modified - Name has been changed to DMX - Tilt
+	Timeclock Event: 2:00 AM - Success
+	Timeclock Event: Event 5 - Success
+	Timeclock Event: Event 6 - Success
+		Dropped - CONDITIONAL programming is dropped
+	Timeclock Event: Lutron - Day Event - Success
+		Dropped - Preset Assignment for StateVariable is dropped
+	Timeclock Event: Event 4 - Success
+	Timeclock Event: Lutron - Night Event - Success
+		Dropped - Preset Assignment for StateVariable is dropped

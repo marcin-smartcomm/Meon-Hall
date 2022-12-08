@@ -1,0 +1,20 @@
+
+
+Switch 192.168.1.2
+	admin/6778nmb9876
+
+5 x Waps 1815i 
+Mobility express 192.168.1.245
+	usern	Smartcomm/5M@rtc0mm
+	Wif 	Meon Hall Wifi
+	pass	89073391
+
+Cisco 867VAE 192.168.1.254	setup as loopback VPN for site.  Devices requiring vpn access need Def Gw 192.168.1.254
+
+TPlink route 192.168.1.1  user admin/admin
+
+New TP link router - 20/07/20
+admin
+admin
+
+IP range default 192.168.0.xxx needs changing to 192.168.1

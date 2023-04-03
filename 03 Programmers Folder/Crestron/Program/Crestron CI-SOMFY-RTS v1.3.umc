@@ -1,0 +1,2129 @@
+[
+Version=1
+]
+[
+ObjTp=FSgntr
+Sgntr=UserMacro
+RelVrs=4.02.16
+IntStrVrs=2
+MinSMWVrs=2.02.05
+MinTIOVrs=0
+SavedBy=SMW3.01.24
+]
+[
+ObjTp=Hd
+S0Nd=1
+S1Nd=2
+SLNd=3
+PrNm=Crestron CI-SOMFY-RTS v1.3.umc
+CmVr=2.12
+DbVr=39.05.002.00
+DvcDbVr=50.00.004.00
+OpVr=PRO2 4.003.0015 (Oct 04 2010)
+PgmNm=Christophe Hombrouck
+DlrNm=Somfy
+CltNm=RS485 RTS transmitter
+Incl=362,378,380,405,407,408,409,478,522,537,554,586,590,611,624,767,830,883,1032,1062,1079,1134,1157,1199,1220,1222,1299,1348,1439,1472,1473,1499,1746,1803,1975,2229,2354,2514,2523,2532,3427,3454,3567,3601,1766,2574,2651,2817,2886,2938,2947,3181,3197,3233,3710,3728,3735,3736,
+McNm=Crestron CI-SOMFY-RTS v1.2
+SmVr=859
+DvVr=859
+TpN1=1
+TpN2=2
+TpN3=3
+TpN4=4
+TpN5=5
+PdfHelp=Crestron CI-SOMFY-RTS v1.2 Help.pdf
+DT=(Miscellaneous Controller)
+Mfg=Somfy
+NumMdl=1
+Mdl1=RS485 RTS Transmitter
+APg=1
+FltTmp=1
+FpCS=0
+EnType=0
+ZeroOnIoOk=0
+]
+[
+ObjTp=Bk
+Nm1=\
+Sx1=0
+Sy1=0
+Mx1=0
+]
+[
+ObjTp=Symbol
+Name=Crestron CI-SOMFY-RTS v1.3
+Code=1
+SmplCName=Crestron CI-SOMFY-RTS v1.3.umc
+Smpl-C=3
+CompilerTimePrecision=Single_Or_Double_Precision
+Exclusions=1,19,20,21,88,89,167,168,179,213,214,215,216,217,225,226,248,249,266,267,310,718,756,854,
+Hint=RS485 RTS transmitter
+SMWRev=2.02.05
+TIORev=0
+S+=1
+HelpID=1055
+PdfHelp=Crestron CI-SOMFY-RTS v1.2 Help.pdf
+DT=(Miscellaneous Controller)
+Mfg=Somfy
+NumMdl=1
+Mdl1=RS485 RTS Transmitter
+APg=1
+StdCmd=0
+FltTmp=1
+FpCS=0
+NumFixedInputs=35
+NumFixedOutputs=24
+NumFixedParams=18
+MinVariableInputs=0
+MinVariableInputsList2=0
+MinVariableInputsList3=0
+MinVariableOutputs=0
+MinVariableOutputsList2=0
+MinVariableOutputsList3=0
+MinVariableParams=0
+SymbolTree=4
+InputSigType1=Digital
+InputSigType2=Digital
+InputSigType3=Digital
+InputSigType4=Digital|Analog|Serial|String
+InputSigType5=Digital
+InputSigType6=Digital
+InputSigType7=Digital|Analog|Serial|String
+InputSigType8=Digital
+InputSigType9=Digital
+InputSigType10=Analog
+InputSigType11=Analog
+InputSigType12=Digital|Analog|Serial|String
+InputSigType13=Digital
+InputSigType14=Digital
+InputSigType15=Digital|Analog|Serial|String
+InputSigType16=Digital
+InputSigType17=Digital
+InputSigType18=Digital
+InputSigType19=Digital
+InputSigType20=Digital
+InputSigType21=Digital
+InputSigType22=Digital
+InputSigType23=Digital
+InputSigType24=Digital
+InputSigType25=Digital
+InputSigType26=Digital
+InputSigType27=Digital
+InputSigType28=Digital
+InputSigType29=Digital
+InputSigType30=Digital
+InputSigType31=Digital
+InputSigType32=Digital
+InputSigType33=Digital
+InputSigType34=Digital|Analog|Serial|String
+InputSigType35=Serial
+OutputSigType1=Digital|Analog|Serial|String
+OutputSigType2=Digital|Analog|Serial|String
+OutputSigType3=Digital|Analog|Serial|String
+OutputSigType4=Digital|Analog|Serial|String
+OutputSigType5=Digital|Analog|Serial|String
+OutputSigType6=Digital|Analog|Serial|String
+OutputSigType7=Digital
+OutputSigType8=Digital
+OutputSigType9=Digital
+OutputSigType10=Digital
+OutputSigType11=Digital
+OutputSigType12=Digital
+OutputSigType13=Digital
+OutputSigType14=Digital
+OutputSigType15=Digital
+OutputSigType16=Digital
+OutputSigType17=Digital
+OutputSigType18=Digital
+OutputSigType19=Digital
+OutputSigType20=Digital
+OutputSigType21=Digital
+OutputSigType22=Digital
+OutputSigType23=Digital|Analog|Serial|String
+OutputSigType24=Serial
+ParamSigType1=String
+ParamSigType2=String
+ParamSigType3=List
+ParamSigType4=List
+ParamSigType5=List
+ParamSigType6=List
+ParamSigType7=List
+ParamSigType8=List
+ParamSigType9=List
+ParamSigType10=List
+ParamSigType11=List
+ParamSigType12=List
+ParamSigType13=List
+ParamSigType14=List
+ParamSigType15=List
+ParamSigType16=List
+ParamSigType17=List
+ParamSigType18=List
+InputCue1=Move_Up
+InputCue2=Move_Down
+InputCue3=Stop_Movement
+InputCue4=[~UNUSED~]
+InputCue5=Move_To_Favorite_Position
+InputCue6=Set_As_Favorite_Position
+InputCue7=[~UNUSED~]
+InputCue8=Tilt_Up
+InputCue9=Tilt_Down
+InputCue10=Tilting_Value
+InputCue11=Tilting_Sensitivity
+InputCue12=[~UNUSED~]
+InputCue13=Activate_Sun_Protection
+InputCue14=Deactivate_Sun_Protection
+InputCue15=[~UNUSED~]
+InputCue16=Send_Program_Command
+InputCue17=Open_Program_Mode
+InputCue18=Channel_1
+InputCue19=Channel_2
+InputCue20=Channel_3
+InputCue21=Channel_4
+InputCue22=Channel_5
+InputCue23=Channel_6
+InputCue24=Channel_7
+InputCue25=Channel_8
+InputCue26=Channel_9
+InputCue27=Channel_10
+InputCue28=Channel_11
+InputCue29=Channel_12
+InputCue30=Channel_13
+InputCue31=Channel_14
+InputCue32=Channel_15
+InputCue33=Channel_16
+InputCue34=[~UNUSED~]
+InputCue35=From_Device
+OutputCue1=[~UNUSED~]
+OutputCue2=[~UNUSED~]
+OutputCue3=[~UNUSED~]
+OutputCue4=[~UNUSED~]
+OutputCue5=[~UNUSED~]
+OutputCue6=[~UNUSED~]
+OutputCue7=Channel_1_is_Active
+OutputCue8=Channel_2_is_Active
+OutputCue9=Channel_3_is_Active
+OutputCue10=Channel_4_is_Active
+OutputCue11=Channel_5_is_Active
+OutputCue12=Channel_6_is_Active
+OutputCue13=Channel_7_is_Active
+OutputCue14=Channel_8_is_Active
+OutputCue15=Channel_9_is_Active
+OutputCue16=Channel_10_is_Active
+OutputCue17=Channel_11_is_Active
+OutputCue18=Channel_12_is_Active
+OutputCue19=Channel_13_is_Active
+OutputCue20=Channel_14_is_Active
+OutputCue21=Channel_15_is_Active
+OutputCue22=Channel_16_is_Active
+OutputCue23=[~UNUSED~]
+OutputCue24=To_Device
+ParamCue1=Source_Address
+ParamCue2=Transmitter_Address
+ParamCue3=Channel_1_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue4=Channel_2_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue5=Channel_3_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue6=Channel_4_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue7=Channel_5_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue8=Channel_6_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue9=Channel_7_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue10=Channel_8_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue11=Channel_9_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue12=Channel_10_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue13=Channel_11_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue14=Channel_12_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue15=Channel_13_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue16=Channel_14_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue17=Channel_15_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+ParamCue18=Channel_16_mode,\x00\x00\x01,\x00\x00\x00,\x00\x01\x01,\x00\x01\x00,\x01\x00\x01,\x01\x00\x00,\x01\x01\x01,\x01\x01\x00
+MPi=35
+Pi1=18
+Pi2=19
+Pi3=20
+Pi5=37
+Pi6=61
+Pi8=59
+Pi9=60
+Pi10=62
+Pi11=63
+Pi13=64
+Pi14=65
+Pi16=1
+Pi17=66
+Pi18=21
+Pi19=4
+Pi20=5
+Pi21=6
+Pi22=7
+Pi23=8
+Pi24=9
+Pi25=10
+Pi26=11
+Pi27=12
+Pi28=13
+Pi29=14
+Pi30=15
+Pi31=16
+Pi32=17
+Pi33=22
+Pi35=23
+MPo=24
+Po7=24
+Po8=25
+Po9=26
+Po10=27
+Po11=28
+Po12=29
+Po13=30
+Po14=31
+Po15=32
+Po16=33
+Po17=34
+Po18=35
+Po19=36
+Po20=38
+Po21=39
+Po22=40
+Po24=41
+MPp=18
+Pp1=3
+Pp2=2
+Pp3=43
+Pp4=44
+Pp5=45
+Pp6=46
+Pp7=47
+Pp8=48
+Pp9=49
+Pp10=50
+Pp11=51
+Pp12=52
+Pp13=53
+Pp14=54
+Pp15=55
+Pp16=56
+Pp17=57
+Pp18=58
+CnxLogic1=S SER/Model:134
+CnxLogic2=C O 0024 I Q:tx$
+CnxLogic3=C I 0035 O Q:rx$
+CnxLogic4=S SER/Baud:4800
+CnxLogic5=S SER/Parity:O
+CnxLogic6=S SER/Databits:8
+CnxLogic7=S SER/Stopbits:1
+CnxLogic8=S SER/SWHandshaking:(None)
+CnxLogic9=S SER/HWHandshaking:(None)
+CnxLogic10=S SER/Protocol:RS485
+FileName=Crestron CI-SOMFY-RTS v1.3.umc
+EncodingType=0
+ZeroOnIoOk=0
+]
+[
+ObjTp=Sm
+H=1
+SmC=157
+Nm=Central Control Modules
+ObjVer=1
+CF=2
+n1I=1
+n1O=1
+mI=1
+mO=1
+tO=1
+mP=1
+P1=
+]
+[
+ObjTp=Sm
+H=2
+SmC=157
+Nm=Network Modules
+ObjVer=1
+CF=2
+n1I=1
+n1O=1
+mI=1
+mO=1
+tO=1
+mP=1
+P1=
+]
+[
+ObjTp=Sm
+H=3
+SmC=157
+Nm=Ethernet
+ObjVer=1
+CF=2
+n1I=1
+n1O=1
+mI=1
+mO=1
+tO=1
+mP=1
+P1=
+]
+[
+ObjTp=Sm
+H=4
+SmC=156
+Nm=Logic
+ObjVer=1
+CF=2
+mC=4
+C1=10
+C2=11
+C3=15
+C4=13
+]
+[
+ObjTp=Sm
+H=5
+SmC=157
+Nm=DefineArguments
+ObjVer=1
+CF=2
+n1I=1
+n1O=1
+mC=1
+C1=6
+mI=1
+mO=1
+tO=1
+mP=1
+P1=
+]
+[
+ObjTp=Sm
+H=6
+SmC=55
+Nm=Argument Definition
+ObjVer=1
+PrH=5
+CF=2
+n1I=35
+n1O=24
+mI=35
+I1=4
+I2=5
+I3=48
+I4=10
+I5=49
+I6=8
+I7=10
+I8=9
+I9=12
+I10=51
+I11=31
+I12=10
+I13=47
+I14=52
+I15=10
+I16=50
+I17=54
+I18=13
+I19=14
+I20=18
+I21=19
+I22=20
+I23=21
+I24=22
+I25=23
+I26=24
+I27=25
+I28=26
+I29=27
+I30=28
+I31=29
+I32=30
+I33=6
+I34=10
+I35=16
+mO=24
+tO=24
+O1=10
+O2=10
+O3=10
+O4=10
+O5=10
+O6=10
+O7=32
+O8=33
+O9=34
+O10=35
+O11=36
+O12=37
+O13=38
+O14=39
+O15=40
+O16=41
+O17=42
+O18=43
+O19=44
+O20=45
+O21=46
+O22=7
+O23=10
+O24=17
+mP=18
+P1=Source_Address
+P2=Transmitter_Address
+P3=Channel_1_mode
+P4=Channel_2_mode
+P5=Channel_3_mode
+P6=Channel_4_mode
+P7=Channel_5_mode
+P8=Channel_6_mode
+P9=Channel_7_mode
+P10=Channel_8_mode
+P11=Channel_9_mode
+P12=Channel_10_mode
+P13=Channel_11_mode
+P14=Channel_12_mode
+P15=Channel_13_mode
+P16=Channel_14_mode
+P17=Channel_15_mode
+P18=Channel_16_mode
+MPi=35
+Pi1=18
+Pi2=19
+Pi3=20
+Pi5=37
+Pi6=61
+Pi8=59
+Pi9=60
+Pi10=62
+Pi11=63
+Pi13=64
+Pi14=65
+Pi16=1
+Pi17=66
+Pi18=21
+Pi19=4
+Pi20=5
+Pi21=6
+Pi22=7
+Pi23=8
+Pi24=9
+Pi25=10
+Pi26=11
+Pi27=12
+Pi28=13
+Pi29=14
+Pi30=15
+Pi31=16
+Pi32=17
+Pi33=22
+Pi35=23
+MPo=24
+Po7=24
+Po8=25
+Po9=26
+Po10=27
+Po11=28
+Po12=29
+Po13=30
+Po14=31
+Po15=32
+Po16=33
+Po17=34
+Po18=35
+Po19=36
+Po20=38
+Po21=39
+Po22=40
+Po24=41
+MPp=18
+Pp1=3
+Pp2=2
+Pp3=43
+Pp4=44
+Pp5=45
+Pp6=46
+Pp7=47
+Pp8=48
+Pp9=49
+Pp10=50
+Pp11=51
+Pp12=52
+Pp13=53
+Pp14=54
+Pp15=55
+Pp16=56
+Pp17=57
+Pp18=58
+]
+[
+ObjTp=Sm
+H=7
+SmC=32
+Nm=Analog Initialize
+ObjVer=1
+PrH=10
+CF=2
+n1I=16
+n1O=1
+mI=16
+I1=53
+I2=14
+I3=18
+I4=19
+I5=20
+I6=21
+I7=22
+I8=23
+I9=24
+I10=25
+I11=26
+I12=27
+I13=28
+I14=29
+I15=30
+I16=6
+mO=1
+tO=1
+O1=11
+mP=16
+P1=1d
+P2=2d
+P3=3d
+P4=4d
+P5=5d
+P6=6d
+P7=7d
+P8=8d
+P9=9d
+P10=10d
+P11=11d
+P12=12d
+P13=13d
+P14=14d
+P15=15d
+P16=16d
+]
+[
+ObjTp=Sm
+H=8
+SmC=19
+Nm=Interlock
+ObjVer=1
+PrH=10
+CF=2
+n1I=18
+n1O=16
+mI=18
+I3=53
+I4=14
+I5=18
+I6=19
+I7=20
+I8=21
+I9=22
+I10=23
+I11=24
+I12=25
+I13=26
+I14=27
+I15=28
+I16=29
+I17=30
+I18=6
+mO=16
+tO=16
+O1=32
+O2=33
+O3=34
+O4=35
+O5=36
+O6=37
+O7=38
+O8=39
+O9=40
+O10=41
+O11=42
+O12=43
+O13=44
+O14=45
+O15=46
+O16=7
+]
+[
+ObjTp=Sm
+H=10
+SmC=156
+Nm=SUBSYSTEM
+ObjVer=1
+PrH=4
+CF=2
+Cmn1=Channel Control\\
+mC=4
+C1=7
+C2=8
+C3=12
+C4=14
+]
+[
+ObjTp=Sm
+H=11
+SmC=285
+Nm=Virtual Serial Driver for Macro Connection
+ObjVer=1
+PrH=4
+CF=2
+n1I=4
+n1O=2
+mI=4
+I1=17
+mO=2
+tO=2
+O1=16
+mP=8
+P1=
+P2=4800
+P3=O
+P4=8
+P5=1
+P6=(None)
+P7=(None)
+P8=RS485
+]
+[
+ObjTp=Sm
+H=12
+SmC=9
+Nm=One Shot
+ObjVer=1
+PrH=10
+CF=2
+n1I=3
+n1O=2
+mI=3
+I1=2
+mO=2
+tO=2
+O1=15
+mP=1
+P1=1t
+]
+[
+ObjTp=Sm
+H=13
+SmC=12
+Nm=Set/Reset Latch
+ObjVer=1
+PrH=4
+CF=2
+n1I=2
+n1O=2
+mI=2
+I1=47
+I2=52
+mO=2
+tO=2
+O1=55
+]
+[
+ObjTp=Sm
+H=14
+SmC=3
+Nm=OR
+ObjVer=1
+PrH=10
+CF=2
+n1I=2
+n1O=1
+mI=2
+I1=13
+I2=15
+mO=1
+tO=1
+O1=53
+]
+[
+ObjTp=Sm
+H=15
+SmC=103
+Nm=Crestron CI-SOMFY-RTS v1.3.usp
+ObjVer=1
+PrH=4
+CF=2
+n1I=34
+n2I=6
+mI=40
+I19=4
+I20=5
+I22=9
+I23=12
+I25=48
+I27=49
+I28=8
+I30=55
+I32=50
+I33=54
+I35=11
+I37=51
+I38=31
+I40=16
+mO=1
+tO=1
+O1=17
+mP=19
+P1=
+P2=#Source_Address
+P3=#Transmitter_Address
+P4=#Channel_1_mode
+P5=#Channel_2_mode
+P6=#Channel_3_mode
+P7=#Channel_4_mode
+P8=#Channel_5_mode
+P9=#Channel_6_mode
+P10=#Channel_7_mode
+P11=#Channel_8_mode
+P12=#Channel_9_mode
+P13=#Channel_10_mode
+P14=#Channel_11_mode
+P15=#Channel_12_mode
+P16=#Channel_13_mode
+P17=#Channel_14_mode
+P18=#Channel_15_mode
+P19=#Channel_16_mode
+]
+[
+ObjTp=Sg
+H=4
+Nm=Move_Up
+]
+[
+ObjTp=Sg
+H=5
+Nm=Move_Down
+]
+[
+ObjTp=Sg
+H=6
+Nm=Channel_16
+]
+[
+ObjTp=Sg
+H=7
+Nm=Channel_16_is_Active
+]
+[
+ObjTp=Sg
+H=8
+Nm=Set_As_Favorite_Position
+]
+[
+ObjTp=Sg
+H=9
+Nm=Tilt_Up
+]
+[
+ObjTp=Sg
+H=10
+Nm=[~UNUSED~]
+SgTp=31
+]
+[
+ObjTp=Sg
+H=11
+Nm=Channel
+SgTp=2
+]
+[
+ObjTp=Sg
+H=12
+Nm=Tilt_Down
+]
+[
+ObjTp=Sg
+H=13
+Nm=Channel_1
+]
+[
+ObjTp=Sg
+H=14
+Nm=Channel_2
+]
+[
+ObjTp=Sg
+H=15
+Nm=Channel_1_OS
+]
+[
+ObjTp=Sg
+H=16
+Nm=From_Device
+SgTp=4
+]
+[
+ObjTp=Sg
+H=17
+Nm=To_Device
+SgTp=4
+]
+[
+ObjTp=Sg
+H=18
+Nm=Channel_3
+]
+[
+ObjTp=Sg
+H=19
+Nm=Channel_4
+]
+[
+ObjTp=Sg
+H=20
+Nm=Channel_5
+]
+[
+ObjTp=Sg
+H=21
+Nm=Channel_6
+]
+[
+ObjTp=Sg
+H=22
+Nm=Channel_7
+]
+[
+ObjTp=Sg
+H=23
+Nm=Channel_8
+]
+[
+ObjTp=Sg
+H=24
+Nm=Channel_9
+]
+[
+ObjTp=Sg
+H=25
+Nm=Channel_10
+]
+[
+ObjTp=Sg
+H=26
+Nm=Channel_11
+]
+[
+ObjTp=Sg
+H=27
+Nm=Channel_12
+]
+[
+ObjTp=Sg
+H=28
+Nm=Channel_13
+]
+[
+ObjTp=Sg
+H=29
+Nm=Channel_14
+]
+[
+ObjTp=Sg
+H=30
+Nm=Channel_15
+]
+[
+ObjTp=Sg
+H=31
+Nm=Tilting_Sensitivity
+SgTp=2
+]
+[
+ObjTp=Sg
+H=32
+Nm=Channel_1_is_Active
+]
+[
+ObjTp=Sg
+H=33
+Nm=Channel_2_is_Active
+]
+[
+ObjTp=Sg
+H=34
+Nm=Channel_3_is_Active
+]
+[
+ObjTp=Sg
+H=35
+Nm=Channel_4_is_Active
+]
+[
+ObjTp=Sg
+H=36
+Nm=Channel_5_is_Active
+]
+[
+ObjTp=Sg
+H=37
+Nm=Channel_6_is_Active
+]
+[
+ObjTp=Sg
+H=38
+Nm=Channel_7_is_Active
+]
+[
+ObjTp=Sg
+H=39
+Nm=Channel_8_is_Active
+]
+[
+ObjTp=Sg
+H=40
+Nm=Channel_9_is_Active
+]
+[
+ObjTp=Sg
+H=41
+Nm=Channel_10_is_Active
+]
+[
+ObjTp=Sg
+H=42
+Nm=Channel_11_is_Active
+]
+[
+ObjTp=Sg
+H=43
+Nm=Channel_12_is_Active
+]
+[
+ObjTp=Sg
+H=44
+Nm=Channel_13_is_Active
+]
+[
+ObjTp=Sg
+H=45
+Nm=Channel_14_is_Active
+]
+[
+ObjTp=Sg
+H=46
+Nm=Channel_15_is_Active
+]
+[
+ObjTp=Sg
+H=47
+Nm=Activate_Sun_Protection
+]
+[
+ObjTp=Sg
+H=48
+Nm=Stop_Movement
+]
+[
+ObjTp=Sg
+H=49
+Nm=Move_To_Favorite_Position
+]
+[
+ObjTp=Sg
+H=50
+Nm=Send_Program_Command
+]
+[
+ObjTp=Sg
+H=51
+Nm=Tilting_Value
+SgTp=2
+]
+[
+ObjTp=Sg
+H=52
+Nm=Deactivate_Sun_Protection
+]
+[
+ObjTp=Sg
+H=53
+Nm=Channel_1_OR
+]
+[
+ObjTp=Sg
+H=54
+Nm=Open_Program_Mode
+]
+[
+ObjTp=Sg
+H=55
+Nm=Toggle_Sun_Auto_Mode
+]
+[
+ObjTp=Dp
+H=1
+Tp=2
+DT=1
+FD1=Pulse to send the intermediate command.
+SD=Send the program command.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=2
+Tp=1
+FD1=The address of the Somfy RTS Transmitter. The address can be found||1
+FD2=on the device.
+SD=The address of the Somfy RTS Transmitter.
+HD=TRUE
+DV=000000
+NoS=FALSE
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+[
+ObjTp=Dp
+H=3
+Tp=1
+FD1=Source address of the Crestron control system. The address should||1
+FD2=be a value between FFFF00 and FFFFFE.
+SD=Source address of the Crestron control system.
+HD=TRUE
+DV=FFFF00
+NoS=FALSE
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+[
+ObjTp=Dp
+H=4
+Tp=2
+DT=1
+FD1=Pulse to select channel 2.
+SD=Select channel 2.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=5
+Tp=2
+DT=1
+FD1=Pulse to select channel 3.
+SD=Select channel 3.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=6
+Tp=2
+DT=1
+FD1=Pulse to select channel 4.
+SD=Select channel 4.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=7
+Tp=2
+DT=1
+FD1=Pulse to select channel 5.
+SD=Select channel 5.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=8
+Tp=2
+DT=1
+FD1=Pulse to select channel 6.
+SD=Select channel 6.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=9
+Tp=2
+DT=1
+FD1=Pulse to select channel 7.
+SD=Select channel 7.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=10
+Tp=2
+DT=1
+FD1=Pulse to select channel 8.
+SD=Select channel 8.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=11
+Tp=2
+DT=1
+FD1=Pulse to select channel 9.
+SD=Select channel 9
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=12
+Tp=2
+DT=1
+FD1=Pulse to select channel 10.
+SD=Select Channel 10
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=13
+Tp=2
+DT=1
+FD1=Pulse to select channel 11.
+SD=Select channel 11.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=14
+Tp=2
+DT=1
+FD1=Pulse to select channel 12.
+SD=Select channel 12.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=15
+Tp=2
+DT=1
+FD1=Pulse to select channel 13.
+SD=Select channel 13.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=16
+Tp=2
+DT=1
+FD1=Pulse to select channel 14.
+SD=Select channel 14.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=17
+Tp=2
+DT=1
+FD1=Pulse to select channel 15.
+SD=Select channel 15.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=18
+Tp=2
+DT=1
+FD1=Pulse to close the motor.
+SD=Close the motor
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=19
+Tp=2
+DT=1
+FD1=Pulse to open the motor.
+SD=open the motor
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=20
+Tp=2
+DT=1
+FD1=Pulse to stop the motor.
+SD=Stops the motor
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=21
+Tp=2
+DT=1
+FD1=Pulse to select channel 1.
+SD=Select channel 1
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=22
+Tp=2
+DT=1
+FD1=Pulse to select channel 16.
+SD=Select channel 16.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=23
+Tp=6
+DT=4
+FD1=To be connected with RX signal of the serial port.
+SD=From Device
+]
+[
+ObjTp=Dp
+H=24
+Tp=3
+DT=1
+FD1=High to indicate that channel 1 is active.
+SD=Channel 1 is active
+RE=Channel 1 active
+HS=Channel 1 is active
+]
+[
+ObjTp=Dp
+H=25
+Tp=3
+DT=1
+FD1=High to indicate that channel 2 is active.
+SD=Channel 2 is active
+RE=Channel 2 active
+HS=channel 2 is active
+]
+[
+ObjTp=Dp
+H=26
+Tp=3
+DT=1
+FD1=High to indicate that channel 3 is active.
+SD=Channel 3 is active
+RE=Channel 3 active
+HS=Channel 3 is active
+]
+[
+ObjTp=Dp
+H=27
+Tp=3
+DT=1
+FD1=High to indicate that channel 4 is active.
+SD=Channel 4 is active
+RE=Channel 4 active
+HS=Channel 4 is active
+]
+[
+ObjTp=Dp
+H=28
+Tp=3
+DT=1
+FD1=High to indicate that channel 5 is active.
+SD=Channel 5 is active.
+RE=Channel 5 active
+HS=Channel 5 is active.
+]
+[
+ObjTp=Dp
+H=29
+Tp=3
+DT=1
+FD1=High to indicate that channel 6 is active.
+SD=Channel 6 is active.
+RE=Channel 6 active
+HS=Channel 6 is active.
+]
+[
+ObjTp=Dp
+H=30
+Tp=3
+DT=1
+FD1=High to indicate that channel 7 is active.
+SD=Channel 7 is active.
+RE=Channel 7 active.
+HS=Channel 7 is active.
+]
+[
+ObjTp=Dp
+H=31
+Tp=3
+DT=1
+FD1=High to indicate that channel 8 is active.
+SD=Channel 8 iis active.
+RE=Channel 8 active
+HS=Channel 8 is active.
+]
+[
+ObjTp=Dp
+H=32
+Tp=3
+DT=1
+FD1=High to indicate that channel 9 is active.
+SD=Channel 9 is active.
+RE=Channel 9 active
+HS=Channel 9 is active.
+]
+[
+ObjTp=Dp
+H=33
+Tp=3
+DT=1
+FD1=High to indicate that channel 10 is active.
+SD=Channel 10 is active.
+RE=Channel 10 active
+HS=Channel 10 is active
+]
+[
+ObjTp=Dp
+H=34
+Tp=3
+DT=1
+FD1=High to indicate that channel 11 is active.
+SD=Channel 11 is active.
+RE=Channel 11 active
+HS=Channel 11 is active.
+]
+[
+ObjTp=Dp
+H=35
+Tp=3
+DT=1
+FD1=High to indicate that channel 12 is active.
+SD=Channel 12 is active.
+RE=Channel 12 active.
+HS=Channel 12 is active
+]
+[
+ObjTp=Dp
+H=36
+Tp=3
+DT=1
+FD1=High to indicate that channel 13 is active.
+SD=Channel 13 is active.
+RE=Channel 13 active.
+HS=Channel 13 is active
+]
+[
+ObjTp=Dp
+H=37
+Tp=2
+DT=1
+FD1=Pulse to move the motor to the intermediate position.
+SD=Move to the intermediate position.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=38
+Tp=3
+DT=1
+FD1=High to indicate that channel 14 is active.
+SD=Channel 14 is active.
+RE=Channel 14 active
+HS=Channel 14 is active.
+]
+[
+ObjTp=Dp
+H=39
+Tp=3
+DT=1
+FD1=High to indicate that channel 15 is active.
+SD=Channel 15 is active.
+RE=Channel 15 active
+HS=Channel 15 is active.
+]
+[
+ObjTp=Dp
+H=40
+Tp=3
+DT=1
+FD1=High to indicate that channel 16 is active.
+SD=Channel 16 is active.
+RE=Channel 16 active
+HS=Channel 16 is active.
+]
+[
+ObjTp=Dp
+H=41
+Tp=7
+DT=4
+FD1=To be connected with the Tx signal of the serial port.
+SD=To device
+]
+[
+ObjTp=Dp
+H=42
+Tp=2
+DT=1
+FD1=Pulse to move the motor to the intermediate position.
+SD=Move to the intermediate position.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=43
+Tp=1
+FD1=Parameter conataining the mode for channel 1. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 1
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=44
+Tp=1
+FD1=Parameter conataining the mode for channel 2. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 2
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=45
+Tp=1
+FD1=Parameter conataining the mode for channel 3. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 3
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=46
+Tp=1
+FD1=Parameter conataining the mode for channel 4. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 4
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=47
+Tp=1
+FD1=Parameter conataining the mode for channel 5. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 5
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=48
+Tp=1
+FD1=Parameter conataining the mode for channel 6. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 6
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=49
+Tp=1
+FD1=Parameter conataining the mode for channel 7. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 7
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=50
+Tp=1
+FD1=Parameter conataining the mode for channel 8. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 8
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=51
+Tp=1
+FD1=Parameter conataining the mode for channel 9. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 9
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=52
+Tp=1
+FD1=Parameter conataining the mode for channel 10. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 10
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=53
+Tp=1
+FD1=Parameter conataining the mode for channel 11. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 11
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=54
+Tp=1
+FD1=Parameter conataining the mode for channel 12. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 12
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=55
+Tp=1
+FD1=Parameter conataining the mode for channel 13. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 13
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=56
+Tp=1
+FD1=Parameter conataining the mode for channel 14. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 14
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=57
+Tp=1
+FD1=Parameter conataining the mode for channel 15. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 15
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=58
+Tp=1
+FD1=Parameter conataining the mode for channel 16. There are 8 modes:
+FD2=||1CE_Rolling_Modulis, CE_Rolling_Normal, CE_Tilting_Modulis, CE_Tilting_Normal,||1
+FD3=||1US_Rolling_Modulis, US_Rolling_Normal,  US_Tilting_Modulis, US_Tilting_Normal.
+SD=Mode that will be used for channel 16
+HD=TRUE
+DV=\x01\x00\x01
+NoS=FALSE
+EncFmt=0
+DVLF=1
+VVS=2
+VN=8
+Val1=\x00\x00\x01
+Lbl1=CE_Rolling_Modulis
+Val2=\x00\x00\x00
+Lbl2=CE_Rolling_Normal
+Val3=\x00\x01\x01
+Lbl3=CE_Tilting_Modulis
+Val4=\x00\x01\x00
+Lbl4=CE_Tilting_Normal
+Val5=\x01\x00\x01
+Lbl5=US_Rolling_Modulis
+Val6=\x01\x00\x00
+Lbl6=US_Rolling_Normal
+Val7=\x01\x01\x01
+Lbl7=US_Tilting_Modulis
+Val8=\x01\x01\x00
+Lbl8=US_Tilting_Normal
+Sgn=0
+]
+[
+ObjTp=Dp
+H=59
+Tp=2
+DT=1
+FD1=Pulse to tilt up.
+SD=Tilt up
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=60
+Tp=2
+DT=1
+FD1=Pulse to tilt down.
+SD=Tilt down
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=61
+Tp=2
+DT=1
+FD1=Pulse to set this position to the intermediate position.
+SD=Set as the intermediate position.
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=62
+Tp=4
+FD1=Analog value indicating the tilting value.\\range from 1 to 127
+SD=Tilting value
+HD=TRUE
+DV=1d
+NF=1
+DNF=1
+VVS=1
+LR=1d
+HR=127d
+IsPrp=1
+]
+[
+ObjTp=Dp
+H=63
+Tp=4
+FD1=Analog value indicating the number of frames that are sent while||1
+FD2=tilting.\\value range:  US Mode- 4 to 255\\||E
+FD3=||6CE Mode- 2 to 13
+SD=Tilting Sensitivity
+HD=TRUE
+DV=4d
+NF=1
+DNF=1
+VVS=1
+LR=1d
+HR=127d
+IsPrp=1
+]
+[
+ObjTp=Dp
+H=64
+Tp=2
+DT=1
+FD1=Pulse to activate sun protection.
+SD=Acitvate sun protection
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=65
+Tp=2
+DT=1
+FD1=Pulse to deactivate sun protection.
+SD=Deactivate sun protection
+HD=TRUE
+DV=0
+Trg=1
+]
+[
+ObjTp=Dp
+H=66
+Tp=2
+DT=1
+FD1=Pulse to open the program mode.
+SD=Open the program mode
+HD=TRUE
+DV=0
+Trg=1
+]

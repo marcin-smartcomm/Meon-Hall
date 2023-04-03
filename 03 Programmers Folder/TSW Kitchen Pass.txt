@@ -1,0 +1,2 @@
+user: smartcomm
+pass: 5m@rtc0mm
